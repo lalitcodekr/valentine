@@ -7,7 +7,7 @@ Welcome to the most adorable project you've ever seen! This is a special React a
 ## 💖 What's Inside? 💖
 [Link to site](https://formyvalentine.netlify.app)
 
-This project is built with love using React and Vite. It features a cute and interactive UI that playfully nudges the user towards saying "Yes" to being your Valentine.
+This project is built with love using React and Vite. It features a cute and interactive UI that playfully nudges the user to say "Yes" to be your Valentine.
 
 ## 🎁 Features 🎁
 
@@ -24,10 +24,6 @@ To get started with this project, follow these steps:
 3. Start the development server with `npm/pnpm/bun run dev`
 
 Now you're ready to ask the big question!
-
-## 💕 Made with Love 💕
-
-This project was made with love by [Anish](https://github.com/xeven777). Feel free to use it to ask your own special someone to be your Valentine!
 
 ## 💌 Feedback and Contributions 💌
 
